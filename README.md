@@ -1,4 +1,4 @@
 # Welcome to Xing's GitHub Page
 
-[Cân bằng PTHH](chemistry)
-[Toán](toan)
+1. [Cân bằng PTHH](chemistry)
+2. [Toán](toan)
