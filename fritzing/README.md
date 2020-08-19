@@ -1,5 +1,5 @@
 # Fritzing
-* Version 0.9.3 *
+*Version 0.9.3*
 ### Install:
 1. Download tổng cộng **8** files:
 ```
